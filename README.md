@@ -9,7 +9,7 @@ Tensorflow implementation of Deep Q-Network (DQN) and Behavior Cloning (BC) to l
 
 ## Experiments
 
-The environnement used for the experiments is the flappyBird_cnn Gym environnement from this [repository](https://github.com/blavad/flappy-bird-env).
+The environnement used for the experiments is the flappyBird_cnn Gym environnement from this [repository](https://github.com/blavad/flappy-bird-env) [[blavad](https://github.com/blavad)].
 
 ## Understand the results (XAI)
 
