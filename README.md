@@ -11,7 +11,7 @@ Tensorflow implementation of Deep Q-Network (DQN) and Behavior Cloning (BC) to l
 
 The environnement used for the experiments is the flappyBird_cnn Gym environnement from this [repository](https://github.com/blavad/flappy-bird-env).
 
-## Understand results (XAI)
+## Understand the results (XAI)
 
 Which parts of the inputs were decisive when the AI won against human at Flappy Bird Game ?
 
